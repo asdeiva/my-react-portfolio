@@ -1,35 +1,19 @@
 export const projects = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "Typing Test with Firebase Integration",
+      subtitle: "React",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+        "This is a web application that allows users to take a typing test and save their results. The application uses Firebase for user authentication, database storage, and social media login options.",
+      image: "./assets/typing_speed_tester.gif",
+      link: "https://typingspeedtester-react.netlify.app/",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Typing Test with Firebase Integration",
+      subtitle: "React",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reedbarger.com",
-    },
-    {
-      title: "DevChat",
-      subtitle: "React and Firebase",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
-    },
-    {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "This is a web application that allows users to take a typing test and save their results. The application uses Firebase for user authentication, database storage, and social media login options.",
+      image: "./assets/typing_speed_tester.gif",
+      link: "https://typingspeedtester-react.netlify.app/",
     },
   ];
 
